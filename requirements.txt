@@ -1,4 +1,9 @@
 streamlit
 pandas
 plotly
-os
+numpy
+os-sys
+requests
+geopandas
+shapely
+
